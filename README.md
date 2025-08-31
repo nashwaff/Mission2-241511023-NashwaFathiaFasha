@@ -1,5 +1,5 @@
 # Proyek 3: Pengembangan Perangkat Lunak Berbasis Web  
-## Misi 2: Membangun Website Sederhana  
+## Misi 2: Build Simple Website  
 
 Dalam misi ini, saya belajar membuat website sederhana dengan **PHP** dan framework **CodeIgniter4** (CI4) dan mengimplementasikan sintaks PHP dasar dengan konsep Model-View-Controller (MVC) dalam pengembangan aplikasi web.
 
